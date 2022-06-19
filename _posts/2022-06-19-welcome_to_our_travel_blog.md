@@ -3,8 +3,6 @@ layout: post
 title:  "Welcome to our travel blog!"
 ---
 
-# Welcome
+# Departure in 8 days!
 
-**Hello world**, this is our first travel blog post.
-
-I hope you like it!
+Our intrepedid father is trying to get a blog set up for us.  Alas, this is about as successful as he's been so far.  But hope springs eternal.
