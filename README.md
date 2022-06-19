@@ -1,6 +1,6 @@
 # The adventures of Gingy and Moomin
 
-A travel blog of the [Gerber family[/about/) 
+A travel blog of the [Gerber family](/about/). 
 
 ### Markdown
 
