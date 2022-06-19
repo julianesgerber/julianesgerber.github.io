@@ -5,7 +5,7 @@ description: our adventures in Germany and environs
 
 # Site Settings
 locale                   : "en-US"
-title                    : "The adventures of Moomin and Gingy: A travel Blog""
+title                    : "The adventures of Moomin and Gingy: A travel Blog"
 title_separator          : "-"
 name                     : &name "The Gerber Family"
 url                      : https://julianesgerber.github.io
